@@ -4,3 +4,7 @@ hycom_data/hycom_latlon.nc
 hycom_data/hycom_sal.nc
 hycom_data/hycom_ssh.nc
 hycom_data/hycom_temp.nc
+hycom_data/hycom_etaref_0to2100.nc
+hycom_data/hycom_etaref_2100to4200.nc
+hycom_data/hycom_etaref_4200to6573.nc
+test_fig.png
