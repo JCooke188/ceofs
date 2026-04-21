@@ -14,3 +14,5 @@ hycom_data/hycom_etaref_4200toEnd.nc
 *.png
 *.mp4
 *.pdf
+data/UGOS.mat
+data/DynLoop.mat
