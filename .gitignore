@@ -16,3 +16,4 @@ hycom_data/hycom_etaref_4200toEnd.nc
 *.pdf
 data/UGOS.mat
 data/DynLoop.mat
+data/GEM_deseasonedtauTmp.mat
