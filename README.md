@@ -21,7 +21,7 @@ ceof_calc.ipynb
 cpies_variance.ipynb
 - Finds variance of eta ref in the different frequency bands using eta ref observed by CPIES
 
-commonMode_test.ipynb
+supp_variance_testing.ipynb
 - Notebook used to understand why deep variance is higher in the model versus observations 
 
 gem_calc.ipynb
